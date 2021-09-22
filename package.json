@@ -1,10 +1,13 @@
 {
     "name": "treux-vibes",
-    "displayName": "Treux Vibes",
-    "description": "The Offical Theme of TreuxLA, yktv!",
+    "displayName": "Treux Theme",
+    "description": "The Offical Theme of treuxcodes!",
     "version": "0.0.1",
     "publisher": "treuxdesign",
-    "repository"
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/laurencobbs/treux-vibes-theme"
+    },
 
     "keywords": [
         "theme",

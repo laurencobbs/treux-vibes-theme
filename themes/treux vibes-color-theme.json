@@ -116,7 +116,7 @@
       "name": "Text",
       "scope": "variable.parameter.function",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#00ebf7"
       }
     },
     {
@@ -308,7 +308,7 @@
       "name": "css attribute-name.id",
       "scope": "support.constant.color.w3c-standard-color-name.css",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#00ebf7"
       }
     },
     {
@@ -1887,17 +1887,17 @@
     "terminal.ansiBrightBlack": "#666666",
     "terminal.ansiBrightBlue": "#3b8eea",
     "terminal.ansiBrightCyan": "#29b8db",
-    "terminal.ansiBrightGreen": "#23d18b",
-    "terminal.ansiBrightMagenta": "#d670d6",
+    "terminal.ansiBrightGreen": "#6bff00",
+    "terminal.ansiBrightMagenta": "#cb00ff",
     "terminal.ansiBrightRed": "#f14c4c",
     "terminal.ansiBrightWhite": "#ffffff",
-    "terminal.ansiBrightYellow": "#f5f543",
+    "terminal.ansiBrightYellow": "#ffef00",
     "terminal.ansiCyan": "#11a8cd",
-    "terminal.ansiGreen": "#0dbc79",
-    "terminal.ansiMagenta": "#bc3fbc",
+    "terminal.ansiGreen": "#6bff00",
+    "terminal.ansiMagenta": "#cb00ff",
     "terminal.ansiRed": "#cd3131",
     "terminal.ansiWhite": "#ffffff",
-    "terminal.ansiYellow": "#e5e510",
+    "terminal.ansiYellow": "#ffef00",
     "breadcrumb.background": "#0d0d0d",
     "breadcrumb.foreground": "#ffffffcc",
     "breadcrumb.focusForeground": "#ffffff",
@@ -1959,7 +1959,7 @@
     "editorSuggestWidget.border": "#454545",
     "editorSuggestWidget.foreground": "#d4d4d4",
     "editorSuggestWidget.highlightForeground": "#fffffff5",
-    "editorSuggestWidget.selectedBackground": "#00ebf7",
+    "editorSuggestWidget.selectedBackground": "#ff00a7f5",
     "editorHoverWidget.foreground": "#ffffff",
     "editorHoverWidget.background": "#252526",
     "editorHoverWidget.border": "#9f9f9f",
