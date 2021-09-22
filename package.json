@@ -1,0 +1,32 @@
+{
+    "name": "treux-vibes",
+    "displayName": "Treux Vibes",
+    "description": "The Offical Theme of TreuxLA, yktv!",
+    "version": "0.0.1",
+    "publisher": "treuxdesign",
+    "repository"
+
+    "keywords": [
+        "theme",
+        "dark theme",
+        "treuxcodes",
+        "treuxla",
+        "treux codes"
+    ],
+
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "treux vibes",
+                "uiTheme": "vs-dark",
+                "path": "./themes/treux vibes-color-theme.json"
+            }
+        ]
+    }
+}
