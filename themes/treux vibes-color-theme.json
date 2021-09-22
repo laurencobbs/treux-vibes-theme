@@ -785,14 +785,14 @@
       "name": "Attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#00ebf7"
       }
     },
     {
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "bold",
+        "fontStyle": "italic",
         "foreground": "#00ebf7"
       }
     },
@@ -800,8 +800,8 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "bold",
-        "foreground": "#ffffff"
+        "fontStyle": "italic",
+        "foreground": "#68217a"
       }
     },
     {
