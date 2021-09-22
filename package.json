@@ -2,13 +2,12 @@
     "name": "treux-vibes",
     "displayName": "Treux Theme",
     "description": "The Offical Theme of treuxcodes!",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "treuxdesign",
     "repository": {
         "type": "git",
         "url": "https://github.com/laurencobbs/treux-vibes-theme"
     },
-
     "keywords": [
         "theme",
         "dark theme",
@@ -16,7 +15,6 @@
         "treuxla",
         "treux codes"
     ],
-
     "engines": {
         "vscode": "^1.60.0"
     },
