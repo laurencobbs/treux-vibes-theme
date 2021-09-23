@@ -4,7 +4,7 @@
     "description": "The Offical Theme of treuxcodes!",
     "version": "0.2.1",
     "publisher": "treuxdesign",
-    "icon": "./images/treuxlogo.png",
+    "icon": "images/treuxlogo.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/laurencobbs/treux-vibes-theme"
