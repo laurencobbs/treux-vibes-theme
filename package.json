@@ -1,9 +1,10 @@
 {
     "name": "treux-vibes",
-    "displayName": "Treux Theme",
+    "displayName": "Treux",
     "description": "The Offical Theme of treuxcodes!",
     "version": "0.2.0",
     "publisher": "treuxdesign",
+    "icon": "./images/treuxlogo.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/laurencobbs/treux-vibes-theme"
@@ -13,6 +14,7 @@
         "dark theme",
         "treuxcodes",
         "treuxla",
+        "treux",
         "treux codes"
     ],
     "engines": {
